@@ -1,0 +1,3 @@
+Player: user1, Key: password1, Attempts_Left: 2
+Player: user2, Key: password2, Attempts_Left: 2
+Player: user3, Key: password3, Attempts_Left: 3

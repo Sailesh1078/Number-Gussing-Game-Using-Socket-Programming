@@ -1,0 +1,2 @@
+Player: user1, Key: password1, MAC Address: 603c71cad3a24b51b7a9b2022cd648db, Attempts: 3, Time: 22.10 seconds
+Player: user1, Key: password1, MAC Address: faebf6e26758463588efe1448d8e1199, Attempts: 3, Time: 24.39 seconds
